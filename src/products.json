@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Avocado",
+        "category": "Fruit",
+        "price": 1.99,
+        "description": "Creamy, nutrient-rich fruit often used in salads, sandwiches, and guacamole.",
+        "image": "https://example.com/images/avocado.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Broccoli",
+        "category": "Vegetable",
+        "price": 2.49,
+        "description": "Fresh green florets packed with vitamins, perfect for steaming or stir-frying.",
+        "image": "https://example.com/images/broccoli.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "category": "Fruit",
+        "price": 0.59,
+        "description": "Sweet and soft tropical fruit, great for snacking or blending into smoothies.",
+        "image": "https://example.com/images/banana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Carrot",
+        "category": "Vegetable",
+        "price": 1.29,
+        "description": "Crunchy and sweet root vegetable, rich in beta-carotene and fiber.",
+        "image": "https://example.com/images/carrot.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Strawberry",
+        "category": "Fruit",
+        "price": 3.99,
+        "description": "Juicy red berries with a sweet-tart flavor, perfect for desserts or smoothies.",
+        "image": "https://example.com/images/strawberry.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Spinach",
+        "category": "Leafy Green",
+        "price": 2.19,
+        "description": "Tender, nutrient-dense greens ideal for salads, sautés, and smoothies.",
+        "image": "https://example.com/images/spinach.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tomato",
+        "category": "Vegetable",
+        "price": 1.79,
+        "description": "Bright red and juicy, great for sauces, salads, or sandwiches.",
+        "image": "https://example.com/images/tomato.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Blueberry",
+        "category": "Fruit",
+        "price": 4.49,
+        "description": "Small, sweet berries packed with antioxidants and perfect for snacking.",
+        "image": "https://example.com/images/blueberry.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cucumber",
+        "category": "Vegetable",
+        "price": 1.39,
+        "description": "Cool and crisp, often used in salads or as a refreshing snack.",
+        "image": "https://example.com/images/cucumber.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Lemon",
+        "category": "Citrus",
+        "price": 0.89,
+        "description": "Tangy citrus fruit used for flavoring drinks, marinades, and desserts.",
+        "image": "https://example.com/images/lemon.jpg"
+    }
+]
