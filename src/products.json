@@ -13,7 +13,7 @@
         "category": "Vegetable",
         "price": 2.49,
         "description": "Fresh green florets packed with vitamins, perfect for steaming or stir-frying.",
-        "image": "https://example.com/images/broccoli.jpg"
+        "image": "https://us-east-2.console.aws.amazon.com/s3/object/student-roshan-pereira-bucket?region=us-east-2&prefix=Brocoli.jpg#:~:text=https%3A//student%2Droshan%2Dpereira%2Dbucket.s3.us%2Deast%2D2.amazonaws.com/Brocoli.jpg"
     },
     {
         "id": 3,
