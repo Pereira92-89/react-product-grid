@@ -5,7 +5,7 @@
         "category": "Fruit",
         "price": 1.99,
         "description": "Creamy, nutrient-rich fruit often used in salads, sandwiches, and guacamole.",
-        "image": "https://example.com/images/avocado.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/Avocados-1.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "category": "Vegetable",
         "price": 2.49,
         "description": "Fresh green florets packed with vitamins, perfect for steaming or stir-frying.",
-        "image": "https://us-east-2.console.aws.amazon.com/s3/object/student-roshan-pereira-bucket?region=us-east-2&prefix=Brocoli.jpg#:~:text=https%3A//student%2Droshan%2Dpereira%2Dbucket.s3.us%2Deast%2D2.amazonaws.com/Brocoli.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/Brocoli.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "category": "Fruit",
         "price": 0.59,
         "description": "Sweet and soft tropical fruit, great for snacking or blending into smoothies.",
-        "image": "https://example.com/images/banana.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/Banana.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "category": "Vegetable",
         "price": 1.29,
         "description": "Crunchy and sweet root vegetable, rich in beta-carotene and fiber.",
-        "image": "https://example.com/images/carrot.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/carrot.jpg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "category": "Fruit",
         "price": 3.99,
         "description": "Juicy red berries with a sweet-tart flavor, perfect for desserts or smoothies.",
-        "image": "https://example.com/images/strawberry.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/Straberry01.jpeg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "category": "Leafy Green",
         "price": 2.19,
         "description": "Tender, nutrient-dense greens ideal for salads, sautés, and smoothies.",
-        "image": "https://example.com/images/spinach.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/spinach-1170x780.jpg"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "category": "Vegetable",
         "price": 1.79,
         "description": "Bright red and juicy, great for sauces, salads, or sandwiches.",
-        "image": "https://example.com/images/tomato.jpg"
+        "image": "https://student-roshan-pereira-bucket.s3.us-east-2.amazonaws.com/Edible-Histories-the-tomato.jpg"
     },
     {
         "id": 8,
